@@ -1,2 +1,2 @@
-# bazsi84.github.com
+# bazsi1984.github.io
 Demo page
